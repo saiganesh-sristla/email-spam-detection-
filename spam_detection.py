@@ -92,8 +92,8 @@ import email
 from plyer import notification
 import time
 
-username = "your username"  
-password = "your password"  
+username = "saiganesh3108"  
+password = "axdm bltp iwgm hlas"  
 imap_host = 'imap.gmail.com'
 imap_port = 993
 
